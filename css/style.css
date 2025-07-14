@@ -1,6 +1,7 @@
 /* Regole generali di pagina */
 body {
     margin: 0;
+
 }
 
 /* Regole header */
@@ -33,8 +34,16 @@ header img {
     background-color: yellow;
 }
 
+figure {
+    margin: 0;
+}
 
-/*tabella*/
+/* Lista */
+ul {
+    padding-left: 20px;
+}
+
+/* Tabella */
 thead {
     background-color: #1faae6;
     color: white;
@@ -51,7 +60,6 @@ thead {
 .text-center {
     text-align: center;
 }
-
 
 
 /*aside*/
