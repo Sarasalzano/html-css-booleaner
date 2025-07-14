@@ -1,4 +1,7 @@
 /* Regole generali di pagina */
+body {
+    margin: 0;
+}
 
 /* Regole header */
 header {
@@ -16,6 +19,8 @@ header img {
 
 
 /* Regole contenuto principale */
+
+
 #titolo {
    color: #55b0dd;
 }
@@ -46,6 +51,7 @@ thead {
 .text-center {
     text-align: center;
 }
+
 
 
 /*aside*/
