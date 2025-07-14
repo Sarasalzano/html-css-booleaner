@@ -14,13 +14,12 @@ header img {
     margin-top:25px;
 }
 
+
+/* Regole contenuto principale */
 #titolo {
    color: #55b0dd;
 }
 
-.container-intestazione p {
+.container-titolo p {
     color: #8f8f8f;
 }
-
-
-/* Regole contenuto principale */
