@@ -23,3 +23,48 @@ header img {
 .container-titolo p {
     color: #8f8f8f;
 }
+
+.yellow {
+    background-color: yellow;
+}
+
+
+/*tabella*/
+thead {
+    background-color: #1faae6;
+    color: white;
+}
+
+.blue-bg {
+    background-color: #b1e6f2;
+}
+
+.column-large {
+    width: 50%;
+}
+
+.text-center {
+    text-align: center;
+}
+
+
+/*aside*/
+#aside {
+    background-image: url(../img/monitor.jpg);
+}
+
+#aside2 {
+    background-image: url(../img/graph.jpg);
+}
+
+.aside-bg {
+    color: white;
+    font-weight: bold;
+    background-size: contain;
+    height: 100px;
+    background-repeat: no-repeat;
+}
+
+aside p {
+    color: grey;
+}
